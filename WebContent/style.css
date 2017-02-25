@@ -1,0 +1,67 @@
+
+
+button.submit {
+    background: none repeat scroll 0 0 #2E9FFF;
+    border: medium none;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: none;
+    color: #FFFFFF;
+    margin-right: 3%;
+    padding: 4px 6px;
+    width: 30%;
+}
+
+#adder
+{
+	padding:10px;
+	height:200px;
+	width:250px;
+	float:left;
+	text-align:center;
+	font-weight:bold;
+	background-color:white; 
+	color:darkblue;
+	border:1px solid darkblue;
+}
+
+#delete
+{
+	padding:10px;
+	height:100px;
+	width:250px;
+	margin-top:250px;
+	margin-left:-250px;
+	float:left;
+	text-align:center;
+	font-weight:bold;
+	background-color:white; 
+	color:darkblue;
+	border:1px solid darkblue;
+}
+
+#chart
+{
+	margin-left:20px;
+	height:500px;
+	width:600px;
+	float:left;
+	background-color:white; 
+	color:darkblue;
+	
+}
+#side
+{
+	background-color:darkblue; 
+	color:white;
+	text-align:center;
+	
+	height:50px;
+	width:70px;
+}
+#task
+{
+	border:1px solid black;
+	height:200px;
+	width:200px;
+	font-size: 20px;
+}
